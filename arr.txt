@@ -1,0 +1,6 @@
+const c=3;
+var b(2:c);
+begin
+  read(b(3));
+  write(b(3));
+end.
